@@ -1,0 +1,17 @@
+h1 {
+	font-size: 30px;
+	font-family: verdana;
+	position: center;
+}
+
+#images {
+	margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    background-color: gray;
+    
+}
+
+img {
+    position: relative;
+}
